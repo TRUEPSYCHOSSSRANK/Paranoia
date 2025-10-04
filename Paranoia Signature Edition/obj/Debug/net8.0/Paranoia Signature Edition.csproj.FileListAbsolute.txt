@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Paranoia Signature Edition\bin\Debug\net8.0\Paranoia Signature Edition.exe
+C:\Users\user\Desktop\Paranoia Signature Edition\bin\Debug\net8.0\Paranoia Signature Edition.deps.json
+C:\Users\user\Desktop\Paranoia Signature Edition\bin\Debug\net8.0\Paranoia Signature Edition.runtimeconfig.json
+C:\Users\user\Desktop\Paranoia Signature Edition\bin\Debug\net8.0\Paranoia Signature Edition.dll
+C:\Users\user\Desktop\Paranoia Signature Edition\bin\Debug\net8.0\Paranoia Signature Edition.pdb
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\Paranoia Signature Edition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\Paranoia Signature Edition.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\Paranoia Signature Edition.AssemblyInfo.cs
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\Paranoia Signature Edition.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\Paranoia Signature Edition.dll
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\refint\Paranoia Signature Edition.dll
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\Paranoia Signature Edition.pdb
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\Paranoia Signature Edition.genruntimeconfig.cache
+C:\Users\user\Desktop\Paranoia Signature Edition\obj\Debug\net8.0\ref\Paranoia Signature Edition.dll

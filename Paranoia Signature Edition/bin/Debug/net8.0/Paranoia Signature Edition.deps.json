@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Paranoia Signature Edition/1.0.0": {
+        "runtime": {
+          "Paranoia Signature Edition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paranoia Signature Edition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

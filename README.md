@@ -9,11 +9,11 @@
 
 
 
-![Uploading Снимок экрана 2025-10-05 013818.jpg…]()
+![image alt](https://github.com/TRUEPSYCHOSSSRANK/Paranoia/blob/9c3117a0fd228f74c633e075242e06c688aee313/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-10-05%20013818.jpg)
 
 
 
-![Uploading Снимок экрана 2025-10-05 013919.jpg…]()
+![image alt](https://github.com/TRUEPSYCHOSSSRANK/Paranoia/blob/9c3117a0fd228f74c633e075242e06c688aee313/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-10-05%20013919.jpg)
 
 
 
